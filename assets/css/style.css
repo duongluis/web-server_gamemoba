@@ -1173,7 +1173,7 @@ label {
   left: 0;
   top: 0;
   border-radius: 30px;
-  background-color: rgba(48, 37, 111, 0.8);
+  /* background-color: rgba(48, 37, 111, 0.8); */
 }
 
 .about-us .magnific-area .mfp-iframe {
