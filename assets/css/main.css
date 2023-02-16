@@ -1,0 +1,59 @@
+.red {
+    background-color: #cd3936;
+}
+
+.main-content .title {
+    color: #fff;
+}
+
+.game-slider .overlay {
+    background-color:#db6c6c;
+}
+
+.contact-us .overlay {
+    background-color: #cd3936;
+    color:#fff;
+}
+
+.about-us .title {
+    color: #fff;
+}
+
+.counter-section .title {
+    color:#fff;
+}
+/* .navbar {
+    background-color: #fff;
+} */
+
+.main-content .xlr {
+    color: #fff;
+}
+
+.about-us .overlay {
+    background-color: #cd3936;
+}
+
+.game-slider .single .single-box {
+    background-color: #cd3936;
+}
+
+.pb-120 {
+    background-color: #db6c6c;
+}
+
+.mau-chu {
+    color: #fff;
+}
+
+.contact-us form {
+    background-color: #db6c6c;
+}
+
+.footer-section .footer-form {
+    background-color: #db6c6c;
+}
+
+h5 {
+    margin-top: 5%;
+}
